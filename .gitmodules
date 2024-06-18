@@ -1,0 +1,3 @@
+[submodule "mirador/plugins/mirador-sync-windows"]
+    path = mirador/plugins/mirador-sync-windows
+    url = https://github.com/UCLALibrary/mirador-sync-windows.git
